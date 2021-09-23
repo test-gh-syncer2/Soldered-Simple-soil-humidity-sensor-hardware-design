@@ -1,0 +1,10 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"REF**";"Version1.1.1.";1;"Version1.1.1.";;;
+2;"K1";"JST-SH_2pin_1mm_C145954";1;"JST-SH_2pin_1mm_C145954";;;
+3;"PAD2,PAD1";"PAD_2x1.5";2;"PAD_2x1.5";;;
+4;"FD1";"FIDUCIAL_23";1;"FIDUCIAL";;;
+5;"G***";"Logo-Back-OSH-3.5mm";1;"LOGO";;;
+6;"";"buzzardLabel";1;"";;;
+7;"G***";"Symbol-Front-Water-Sensoric";1;"LOGO";;;
+8;"G***";"Logo-Front-Soldered-4mm";1;"LOGO";;;
+9;"REF**";"Logo-Back-SolderedFULL-15mm";1;"Logo-Front-SolderedFULL-15mm";;;
